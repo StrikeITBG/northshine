@@ -1,0 +1,113 @@
+
+---Downloaded files---
+The import files for: Theme - poket were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/northshine
+Data file = D:\WORK\htdocs\northshine\wp-content\plugins\themex-ppro-elementor//includes/demo/poket.xml
+Widget file = D:\WORK\htdocs\northshine\wp-content\plugins\themex-ppro-elementor//includes/demo/poket-widgets.wie
+Customizer file = D:\WORK\htdocs\northshine\wp-content\plugins\themex-ppro-elementor//includes/demo/poket-export.dat
+Redux files:
+poket_opt -> D:\WORK\htdocs\northshine\wp-content\plugins\themex-ppro-elementor//includes/demo/poket_opt.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Left Sidebar : 
+
+Search - No Title - Imported
+Archives - Archives - Imported
+EM Recent Posts - Recent Posts - Imported
+Categories - Categories - Imported
+Meta - Meta - Imported
+Calendar - No Title - Imported
+
+Blog Right Sidebar : 
+
+Search - No Title - Imported
+Archives - Archives - Imported
+EM Recent Posts - Recent Posts - Imported
+Categories - Categories - Imported
+Meta - Meta - Imported
+Calendar - No Title - Imported
+
+Shop Sidebar : 
+
+Product Search - No Title - Imported
+Filter Products by Price - Filter by price - Imported
+Product Categories - Product categories - Imported
+Products list - Products - Imported
+
+Footer widget 1 : 
+
+EM: Short Description With Icon - No Title - Imported
+
+Footer widget 2 : 
+
+Navigation Menu - Navigation - Imported
+
+Footer widget 3 : 
+
+EM Address Widget - Address Us - Imported
+
+Footer widget 4 : 
+
+Gallery - Gallery - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: poket_opt finished successfully!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
